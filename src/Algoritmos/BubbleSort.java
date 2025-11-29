@@ -1,4 +1,4 @@
-package algoritmos;
+package Algoritmos;
 
 public class BubbleSort {
     private long operacoes;
