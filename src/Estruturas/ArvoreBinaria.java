@@ -1,4 +1,4 @@
-package estruturas;
+package Estruturas;
 
 public class ArvoreBinaria {
     private NoABB raiz;
